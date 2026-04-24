@@ -12,3 +12,13 @@ for(int i =0; i<str.size();i++){
 }
 cout<<count;
 }
+/* my logic
+ string str = "she was pretty";
+ int count = str.size();
+ for(int i =0; i<str.size();i++){
+ if(str[i]=='a'||str[i]=='e'||str[i]=='i'||str[i]=='o'||str[i]=='u' || str[i])==' '){  yaha pr capital vowels bhi consonant hote hai isileye ye thoda galat tha
+ count--;
+}}
+cout<<count;
+
+*/
